@@ -22,11 +22,15 @@ nav{
 
 a{
     text-decoration: none;
+    
 }
 
 .hero{
-    background-image: url(./images/flowers.jpg);
+    
+    background-image: url(./images/download\ \(1\).jpg);
     height: 200px;
     background-size: cover;
     background-position: center;
+
 }
+
