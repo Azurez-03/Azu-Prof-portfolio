@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0
 }
-
+/*background-color: helps organize and change the color of my pages background
+th ebody section lets the sitem know where to place it in the HTML*/
 body{
-    background-color: antiquewhite;
+    background-color: rgb(240, 243, 236);
 
 }
 
