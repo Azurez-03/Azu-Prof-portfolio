@@ -5,7 +5,7 @@
 /*background-color: helps organize and change the color of my pages background
 th ebody section lets the sitem know where to place it in the HTML*/
 body{
-    background-color: rgb(222, 230, 233);
+    background-color: rgba(150, 108, 182, 0.359);
 
 }
 
@@ -29,9 +29,30 @@ a{
 .hero{
     
     background-image: url(./images/download\ \(1\).jpg);
-    height: 200px;
+    height: 300px;
     background-size: cover;
     background-position: center;
+    
 
 }
 
+.nav{
+    color: rgb(98, 82, 95);
+    border-style:outset
+    
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-content{
+     margin: 20px;
+}
+#work{
+    margin: 20px;
+}
+#contact-me{
+    margin: 20px;
+}
+.content-header{
+    margin:;
+}
