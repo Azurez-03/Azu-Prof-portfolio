@@ -25,6 +25,7 @@ a{
     text-decoration: none;
     
 }
+/*the period is conected to class and the # are concected to the id */
 
 .hero{
     
@@ -44,15 +45,35 @@ a{
 body{
     font-family: 'Times New Roman', Times, serif;
 }
+
 .about-content{
+    display: flex;
      margin: 20px;
 }
+
 #work{
-    margin: 20px;
+    
 }
+
 #contact-me{
-    margin: 20px;
+    
 }
-.content-header{
-    margin:;
+
+#content-header{
+    border-style:dashed;
+    text-align: center;
+    color: rgba(98, 82, 95, 0.681);
+}
+
+#profilepic{
+    float: left;
+    margin-right: 30px;
+}
+#list-about-me{
+    width: 200px;
+    margin-left: 30px;
+}
+#paragraph{
+    width: 250px;
+
 }
