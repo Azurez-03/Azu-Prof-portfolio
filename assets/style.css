@@ -51,14 +51,6 @@ body{
      margin: 20px;
 }
 
-#work{
-    
-}
-
-#contact-me{
-    
-}
-
 #content-header{
     border-style:dashed;
     text-align: center;
@@ -74,6 +66,36 @@ body{
     margin-left: 30px;
 }
 #paragraph{
-    width: 250px;
+    width: 50%;
+}
 
+.Projects{
+    display: flex;
+}
+
+.project-project1{
+    width:fit-content;
+    font-size: 3em;
+    border-style: ridge;
+    border-width: 5px;
+    background-color: rgba(243, 197, 235, 0.695);
+    padding: 5px 5px;
+}
+
+.project-project2{
+    width:fit-content;
+    font-size: 3em;
+    border-style:ridge;
+    border-width: 5px;
+    background-color: rgba(243, 197, 235, 0.695);
+    padding: 5px 5px;
+}
+
+.project-project3{
+    width: fit-content;
+    font-size: 3em;
+    border-style:ridge;
+    border-width: 5px;
+    background-color: rgba(243, 197, 235, 0.695);
+    padding: 5px 5px;
 }
