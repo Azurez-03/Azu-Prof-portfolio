@@ -74,16 +74,18 @@ body{
 }
 
 .project-project1{
-    width:fit-content;
-    font-size: 3em;
+    width: 100%;
+    font-size: 5em;
     border-style: ridge;
     border-width: 5px;
-    background-color: rgba(243, 197, 235, 0.695);
     padding: 5px 5px;
+    background-image: url(./images/flowers.jpg);
+    background-size: cover;
 }
 
 .project-project2{
-    width:fit-content;
+    width:auto;
+    height: auto;
     font-size: 3em;
     border-style:ridge;
     border-width: 5px;
@@ -92,7 +94,8 @@ body{
 }
 
 .project-project3{
-    width: fit-content;
+    width: auto;
+    height: auto;
     font-size: 3em;
     border-style:ridge;
     border-width: 5px;
